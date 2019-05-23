@@ -14,10 +14,10 @@ import android.view.ViewGroup;
 import com.jordankelvin.utsakb10116277.R;
 
 /*
-    HARI    : Rabu
-    NIM     : 10116277
-    NAMA    : Jordan Kelvin ALyan Firdaus
-    KELAS   : IF-7
+    HARI,TGL    : Rabu, 22 Mei 2019
+    NIM         : 10116277
+    NAMA        : Jordan Kelvin ALyan Firdaus
+    KELAS       : IF-7
  */
 
 public class ContactFragment extends Fragment {

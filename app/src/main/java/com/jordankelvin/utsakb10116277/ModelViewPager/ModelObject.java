@@ -3,7 +3,7 @@ package com.jordankelvin.utsakb10116277.ModelViewPager;
 import com.jordankelvin.utsakb10116277.R;
 
 /*
-    HARI    : Selasa
+    HARI    : Selasa, 21 Mei 2019
     NIM     : 10116277
     NAMA    : Jordan Kelvin ALyan Firdaus
     KELAS   : IF-7

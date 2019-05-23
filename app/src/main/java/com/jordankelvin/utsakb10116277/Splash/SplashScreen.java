@@ -11,10 +11,10 @@ import com.jordankelvin.utsakb10116277.MainActivity;
 import com.jordankelvin.utsakb10116277.R;
 
 /*
-    HARI    : Senin
-    NIM     : 10116277
-    NAMA    : Jordan Kelvin ALyan Firdaus
-    KELAS   : IF-7
+    HARI,TGL    : Senin, 20 Mei 2019
+    NIM         : 10116277
+    NAMA        : Jordan Kelvin ALyan Firdaus
+    KELAS       : IF-7
  */
 
 public class SplashScreen extends AppCompatActivity {

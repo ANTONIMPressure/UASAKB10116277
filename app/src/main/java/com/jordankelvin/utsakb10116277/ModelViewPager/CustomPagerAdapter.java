@@ -7,10 +7,10 @@ import android.view.View;
 import android.view.ViewGroup;
 
 /*
-    HARI    : Selasa
-    NIM     : 10116277
-    NAMA    : Jordan Kelvin ALyan Firdaus
-    KELAS   : IF-7
+    HARI,TGL    : Selasa, 21 Mei 2019
+    NIM         : 10116277
+    NAMA        : Jordan Kelvin ALyan Firdaus
+    KELAS       : IF-7
  */
 
 public class CustomPagerAdapter extends PagerAdapter {
