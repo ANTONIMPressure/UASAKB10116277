@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">testing</string>
+    <string name="welcome">Welcome</string>
+    <string name="menu">HALAMAN MENU</string>
+    <string name="blue">BLUE</string>
+    <string name="green">GREEN</string>
+    <string name="todo">TODO</string>
+
+    <string name="profil">Profil</string>
+    <string name="kontak">Kontak</string>
+    <string name="daftar">Daftar</string>
+    <string name="appbar_scrolling_view_behavior">scrolling_view</string>
+
+</resources>
