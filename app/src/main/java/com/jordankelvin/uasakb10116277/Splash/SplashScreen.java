@@ -1,4 +1,4 @@
-package com.jordankelvin.utsakb10116277.Splash;
+package com.jordankelvin.uasakb10116277.Splash;
 
 import android.content.Intent;
 import android.os.Handler;
@@ -7,8 +7,9 @@ import android.os.Bundle;
 import android.view.Window;
 import android.widget.TextView;
 
-import com.jordankelvin.utsakb10116277.MainActivity;
-import com.jordankelvin.utsakb10116277.R;
+import com.jordankelvin.uasakb10116277.LoginLogout.LoginActivity;
+import com.jordankelvin.uasakb10116277.MainActivity;
+import com.jordankelvin.uasakb10116277.R;
 
 /*
     HARI,TGL    : Senin, 20 Mei 2019
@@ -35,7 +36,7 @@ public class SplashScreen extends AppCompatActivity {
         handler.postDelayed(new Runnable() {
             @Override
             public void run() {
-                startActivity(new Intent(getApplicationContext(), MainActivity.class));
+                startActivity(new Intent(getApplicationContext(), LoginActivity.class));
                 finish();
             }
         }, 3000L);

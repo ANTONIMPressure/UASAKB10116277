@@ -1,7 +1,5 @@
-package com.jordankelvin.utsakb10116277.Fragment;
+package com.jordankelvin.uasakb10116277.Fragment;
 
-import android.content.Intent;
-import android.net.Uri;
 import android.os.Bundle;
 import android.support.annotation.NonNull;
 import android.support.annotation.Nullable;
@@ -11,7 +9,7 @@ import android.view.View;
 import android.view.ViewGroup;
 
 
-import com.jordankelvin.utsakb10116277.R;
+import com.jordankelvin.uasakb10116277.R;
 
 /*
     HARI,TGL    : Rabu, 22 Mei 2019

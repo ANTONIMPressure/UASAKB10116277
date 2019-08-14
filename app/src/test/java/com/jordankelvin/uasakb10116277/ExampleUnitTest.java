@@ -1,4 +1,4 @@
-package com.jordankelvin.utsakb10116277;
+package com.jordankelvin.uasakb10116277;
 
 import org.junit.Test;
 

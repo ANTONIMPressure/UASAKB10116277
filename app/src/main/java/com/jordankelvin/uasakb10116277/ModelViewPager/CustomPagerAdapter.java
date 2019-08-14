@@ -1,4 +1,4 @@
-package com.jordankelvin.utsakb10116277.ModelViewPager;
+package com.jordankelvin.uasakb10116277.ModelViewPager;
 
 import android.content.Context;
 import android.support.v4.view.PagerAdapter;

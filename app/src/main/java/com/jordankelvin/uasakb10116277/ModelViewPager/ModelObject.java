@@ -1,6 +1,6 @@
-package com.jordankelvin.utsakb10116277.ModelViewPager;
+package com.jordankelvin.uasakb10116277.ModelViewPager;
 
-import com.jordankelvin.utsakb10116277.R;
+import com.jordankelvin.uasakb10116277.R;
 
 /*
     HARI    : Selasa, 21 Mei 2019
