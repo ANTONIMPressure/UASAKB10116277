@@ -8,6 +8,13 @@ import android.widget.TextView;
 
 import com.jordankelvin.uasakb10116277.R;
 
+/*
+    HARI,TGL    : Kamis, 8 Agustus 2019
+    NIM         : 10116277
+    NAMA        : Jordan Kelvin ALyan Firdaus
+    KELAS       : IF-7
+ */
+
 public class LogoutActivity extends AppCompatActivity {
 
     @Override

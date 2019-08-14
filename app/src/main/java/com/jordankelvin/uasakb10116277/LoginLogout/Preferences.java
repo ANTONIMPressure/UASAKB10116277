@@ -4,6 +4,13 @@ import android.content.Context;
 import android.content.SharedPreferences;
 import android.preference.PreferenceManager;
 
+/*
+    HARI,TGL    : Kamis, 8 Agustus 2019
+    NIM         : 10116277
+    NAMA        : Jordan Kelvin ALyan Firdaus
+    KELAS       : IF-7
+ */
+
 public class Preferences {
 
     static final String KEY_USER_TEREGISTER ="user", KEY_PASS_TEREGISTER ="pass";

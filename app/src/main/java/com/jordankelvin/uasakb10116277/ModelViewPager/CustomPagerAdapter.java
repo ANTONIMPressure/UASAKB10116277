@@ -7,7 +7,7 @@ import android.view.View;
 import android.view.ViewGroup;
 
 /*
-    HARI,TGL    : Selasa, 21 Mei 2019
+    HARI,TGL    : Jumat, 9 Agustus 2019
     NIM         : 10116277
     NAMA        : Jordan Kelvin ALyan Firdaus
     KELAS       : IF-7
