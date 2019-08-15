@@ -18,6 +18,7 @@ import com.jordankelvin.uasakb10116277.Fragment.ContactFragment;
 import com.jordankelvin.uasakb10116277.Fragment.ListFragment;
 import com.jordankelvin.uasakb10116277.LoginLogout.LogoutActivity;
 import com.jordankelvin.uasakb10116277.ModelViewPager.CustomPagerAdapter;
+import com.jordankelvin.uasakb10116277.RealmD.DaftarMahasiswa;
 
 /*
     HARI,TGL    : Jumat, 9 Agustus 2019
@@ -81,8 +82,9 @@ public class MainActivity extends AppCompatActivity implements BottomNavigationV
     public boolean onOptionsItemSelected(MenuItem item) {
         if  (item.getItemId() == R.id.logout) {
             startActivity(new Intent(this, LogoutActivity.class));
+        }  else if (item.getItemId() == R.id.database) {
+            startActivity(new Intent(this, DaftarMahasiswa.class));
         }
-
         return true;
     }
 

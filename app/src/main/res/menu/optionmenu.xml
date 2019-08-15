@@ -3,6 +3,10 @@
     xmlns:app="http://schemas.android.com/apk/res-auto">
 
     <item
+        android:id="@+id/database"
+        android:title="Database"
+        app:showAsAction="never"/>
+    <item
         android:id="@+id/logout"
         android:title="Keluar"
         app:showAsAction="never"/>

@@ -9,23 +9,26 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-
+        <activity android:name=".RealmD.DaftarMahasiswa"></activity>
+        <activity android:name=".RealmD.MahasiswaActivity" />
+        <activity android:name=".RealmD.DetailActivity" />
         <activity
-            android:name="com.jordankelvin.uasakb10116277.Splash.SplashScreen"
-            android:theme="@style/AppTheme.NoActionBar"
+            android:name=".Splash.SplashScreen"
             android:noHistory="true"
-            android:screenOrientation="portrait">
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.NoActionBar">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
+
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name="com.jordankelvin.uasakb10116277.LoginLogout.LoginActivity"
-            android:theme="@style/AppTheme.NoActionBar">
-        </activity>
-        <activity android:name="com.jordankelvin.uasakb10116277.LoginLogout.RegisterActivity" />
-        <activity android:name="com.jordankelvin.uasakb10116277.MainActivity" />
-        <activity android:name="com.jordankelvin.uasakb10116277.LoginLogout.LogoutActivity"></activity>
+        <activity
+            android:name=".LoginLogout.LoginActivity"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity android:name=".LoginLogout.RegisterActivity" />
+        <activity android:name=".MainActivity" />
+        <activity android:name=".LoginLogout.LogoutActivity" />
     </application>
 
 </manifest>

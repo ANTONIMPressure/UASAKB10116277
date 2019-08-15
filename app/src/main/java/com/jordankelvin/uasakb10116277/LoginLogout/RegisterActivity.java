@@ -68,21 +68,21 @@ public class RegisterActivity extends AppCompatActivity {
 
 
         if (TextUtils.isEmpty(user)){
-            mViewUser.setError("This field is required");
+            mViewUser.setError("Masukkan Username");
             fokus = mViewUser;
             cancel = true;
         }else if(cekUser(user)){
-            mViewUser.setError("This Username is already exist");
+            mViewUser.setError("Username telah ada");
             fokus = mViewUser;
             cancel = true;
         }
 
         if (TextUtils.isEmpty(password)){
-            mViewPassword.setError("This field is required");
+            mViewPassword.setError("Masukkan Password");
             fokus = mViewPassword;
             cancel = true;
         }else if (!cekPassword(password,repassword)){
-            mViewRepassword.setError("This password is incorrect");
+            mViewRepassword.setError("Password telah ada");
             fokus = mViewRepassword;
             cancel = true;
         }

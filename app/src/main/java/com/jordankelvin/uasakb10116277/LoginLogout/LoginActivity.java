@@ -78,21 +78,21 @@ public class LoginActivity extends AppCompatActivity {
 
 
         if (TextUtils.isEmpty(user)){
-            mViewUser.setError("This field is required");
+            mViewUser.setError("Masukkan Username");
             fokus = mViewUser;
             cancel = true;
         }else if(!cekUser(user)){
-            mViewUser.setError("This Username is not found");
+            mViewUser.setError("Username tidak ditemukan atau salah");
             fokus = mViewUser;
             cancel = true;
         }
 
         if (TextUtils.isEmpty(password)){
-            mViewPassword.setError("This field is required");
+            mViewPassword.setError("Masukkan Password");
             fokus = mViewPassword;
             cancel = true;
         }else if (!cekPassword(password)){
-            mViewPassword.setError("This password is incorrect");
+            mViewPassword.setError("Password Salah");
             fokus = mViewPassword;
             cancel = true;
         }
