@@ -4,7 +4,7 @@
 
     <item
         android:id="@+id/database"
-        android:title="Database"
+        android:title="Database REALM"
         app:showAsAction="never"/>
     <item
         android:id="@+id/logout"
