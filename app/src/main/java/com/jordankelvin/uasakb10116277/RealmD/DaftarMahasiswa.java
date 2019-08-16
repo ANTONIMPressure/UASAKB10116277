@@ -14,7 +14,7 @@ import io.realm.Realm;
 import io.realm.RealmConfiguration;
 
 /*
-    HARI    : Selasa, 13 agustus 2019
+    HARI    : Selasa, 13 Agustus 2019
     NIM     : 10116277
     NAMA    : Jordan Kelvin ALyan Firdaus
     KELAS   : IF-7
